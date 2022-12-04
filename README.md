@@ -7,6 +7,8 @@ Programming intrigues me the most. It is fun painting a great UI in my mind and 
 
 When I am not working, you will usually find me working out :))
 
+You can reach me out at kritikjain9@gmail.com or contact me at +91 8989162282
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kritikjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritik-jain-6b0a7a163/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_kritikjain) 
