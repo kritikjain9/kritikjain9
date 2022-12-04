@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hey!<br><br>I am Kritik, currently working as an SDE-1 at Readyly. I love to develop front-end applications and have a hand in the back-end stuff as well.<br><br>On the side, I love to solve problems!
+Hey!<br><br>I am working as an SDE-1 at Readyly
+
+I love building frontends and my tools are ReactJs and Javascript. I have good knowledge in the exquisite realm of Programming and Web Development and the word 'Bibliophile' best describes me! As an adept SDE, I have a well-rounded skill set in programming and honed talents in the software development field. 
+
+Programming intrigues me the most. It is fun painting a great UI in my mind and then realizing that with actual websites on the internet. Along with this, I am learning the concepts of Data Structures and algorithms in Java, along with solving questions on leetcode.
+
+When I am not working, you will usually find me working out :))
 
 
 ## 🌐 Socials:
