@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hey!<br><br>I am working as an SDE-1 at Aristocrat Technologies
+Hey!<br><br>I am working as an Software Engineer at Vistaprint
 
-I love building frontends and my tools are ReactJs and Javascript/TypeScript. I have good knowledge in the exquisite realm of Programming and Web Development and the word 'Bibliophile' best describes me! As an adept SDE, I have a well-rounded skill set in programming and honed talents in the software development field. 
+I love frontend and my tools are ReactJs and TypeScript. I have good knowledge in the exquisite realm of Programming and Web Development and the word 'Bibliophile' best describes me! As an adept SDE, I have a well-rounded skill set in programming and honed talents in the software development field. 
 
 Programming intrigues me the most. It is fun painting a great UI in my mind and then realizing that with actual websites on the internet. Along with this, I am learning the concepts of Data Structures and algorithms in Java, along with solving questions on leetcode.
 
